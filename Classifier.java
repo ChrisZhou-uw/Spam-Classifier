@@ -1,8 +1,5 @@
 // Chris Zhou
 // 05/29/2025
-// CSE 123
-// P3: Spam Classifier
-// TA: Justin Huang
 // This class represents a classification tree that predicts labels for
 // text-based data. It allows users to train the classification model,
 // classify the new input, save and load model to and from file, and evaluate
