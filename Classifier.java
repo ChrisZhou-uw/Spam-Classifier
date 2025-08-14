@@ -224,10 +224,6 @@ public class Classifier {
         }
     }
 
-    ////////////////////////////////////////////////////////////////////
-    // PROVIDED METHODS - **DO NOT MODIFY ANYTHING BELOW THIS LINE!** //
-    ////////////////////////////////////////////////////////////////////
-
     // Helper method to calcualte the midpoint of two provided doubles.
     private static double midpoint(double one, double two) {
         return Math.min(one, two) + (Math.abs(one - two) / 2.0);
