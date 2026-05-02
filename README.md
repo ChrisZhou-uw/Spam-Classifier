@@ -1,1 +1,4 @@
-Designed a machine learning-based spam classifier model using Java to predict a label when given 1000 text-based data, training, and updating the model to ensure accuracy reaches at least 90%
+// This class represents a classification tree that predicts labels for
+// text-based data. It allows users to train the classification model,
+// classify the new input, save and load model to and from file, and evaluate
+// the prediction accuracy.
